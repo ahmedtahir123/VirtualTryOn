@@ -51,8 +51,7 @@ export const products = [
     id: "5",
     name: "Athletic Joggers",
     price: 49.99,
-    image:
-      "https://images.pexels.com/photos/1598505/pexels-photo-1598505.jpeg?auto=compress&cs=tinysrgb&w=500",
+    image: "https://i.ibb.co/Y7KCZXz5/2b0d4921-376a-4984-a897-0c504bfd90be.jpg",
     category: "men",
     type: "activewear",
     sizes: ["S", "M", "L", "XL"],
@@ -63,8 +62,7 @@ export const products = [
     id: "6",
     name: "Wool Blend Sweater",
     price: 99.99,
-    image:
-      "https://images.pexels.com/photos/1040945/pexels-photo-1040945.jpeg?auto=compress&cs=tinysrgb&w=500",
+    image: "https://i.ibb.co/spdhDvwJ/87fb7e88-b8f3-48a7-b5cb-e62800c3e95d.jpg",
     category: "men",
     type: "sweaters",
     sizes: ["S", "M", "L", "XL"],
@@ -142,5 +140,82 @@ export const products = [
     sizes: ["XS", "S", "M", "L", "XL"],
     description:
       "Breathable linen top with a relaxed fit. Perfect for warm weather and vacation wear.",
+  },
+  {
+    id: "13",
+    name: "Wool Blend Sweater",
+    price: 99.99,
+    image: "https://i.ibb.co/HptwK3Cm/121d4cd2-92a1-4faa-bbaf-275cf2c36ef4.jpg",
+    category: "men",
+    type: "sweaters",
+    sizes: ["S", "M", "L", "XL"],
+    description:
+      "Luxurious wool blend sweater with a classic crew neck design. Perfect for cooler weather.",
+  },
+  {
+    id: "14",
+    name: "Wool Blend Sweater",
+    price: 99.99,
+    image: "https://i.ibb.co/GrWfkpf/848b8cc6-6088-4867-bb5c-666224992384.jpg",
+    category: "men",
+    type: "sweaters",
+    sizes: ["S", "M", "L", "XL"],
+    description:
+      "Luxurious wool blend sweater with a classic crew neck design. Perfect for cooler weather.",
+  },
+  {
+    id: "15",
+    name: "Wool Blend Sweater",
+    price: 99.99,
+    image: "https://i.ibb.co/FLk4DDjd/86318117-2852-4008-9002-efbf0f720b13.jpg",
+    category: "men",
+    type: "sweaters",
+    sizes: ["S", "M", "L", "XL"],
+    description:
+      "Luxurious wool blend sweater with a classic crew neck design. Perfect for cooler weather.",
+  },
+  {
+    id: "16",
+    name: "Wool Blend Sweater",
+    price: 99.99,
+    image: "https://i.ibb.co/fR827d2/a187b8b5-bb19-42bb-b8c4-f7b124626ea5.jpg",
+    category: "men",
+    type: "sweaters",
+    sizes: ["S", "M", "L", "XL"],
+    description:
+      "Luxurious wool blend sweater with a classic crew neck design. Perfect for cooler weather.",
+  },
+  {
+    id: "17",
+    name: "Wool Blend Sweater",
+    price: 99.99,
+    image: "https://i.ibb.co/1YZDntF5/cd1edc84-7f9a-4ead-9e30-dfc402a8b227.jpg",
+    category: "men",
+    type: "sweaters",
+    sizes: ["S", "M", "L", "XL"],
+    description:
+      "Luxurious wool blend sweater with a classic crew neck design. Perfect for cooler weather.",
+  },
+  {
+    id: "18",
+    name: "Wool Blend Sweater",
+    price: 99.99,
+    image: "https://i.ibb.co/Fkh2jd6j/d9f3131e-a462-49c0-afe3-ee4880e5dfd4.jpg",
+    category: "men",
+    type: "sweaters",
+    sizes: ["S", "M", "L", "XL"],
+    description:
+      "Luxurious wool blend sweater with a classic crew neck design. Perfect for cooler weather.",
+  },
+  {
+    id: "19",
+    name: "Wool Blend Sweater",
+    price: 99.99,
+    image: "https://i.ibb.co/jkFjRwYp/fe27b9a5-f749-4b11-990a-130b9d89a901.jpg",
+    category: "men",
+    type: "sweaters",
+    sizes: ["S", "M", "L", "XL"],
+    description:
+      "Luxurious wool blend sweater with a classic crew neck design. Perfect for cooler weather.",
   },
 ];
