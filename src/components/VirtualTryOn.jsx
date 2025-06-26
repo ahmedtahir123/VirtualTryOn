@@ -90,7 +90,7 @@ const VirtualTryOn = ({ product, isOpen, onClose }) => {
         body: formData,
         headers: {
           "x-api-key":
-            "81ba96d41dfe42a59c41f81c1e0e66302dca059b505fac50cfe827bb495b9a69",
+            "68ce8f66fc3773282f6ef9c85f0211fe53ef11f139a57231afacaa23df3086ed",
         },
       });
 
@@ -114,7 +114,7 @@ const VirtualTryOn = ({ product, isOpen, onClose }) => {
             {
               headers: {
                 "x-api-key":
-                  "81ba96d41dfe42a59c41f81c1e0e66302dca059b505fac50cfe827bb495b9a69",
+                  "68ce8f66fc3773282f6ef9c85f0211fe53ef11f139a57231afacaa23df3086ed",
               },
             }
           );
