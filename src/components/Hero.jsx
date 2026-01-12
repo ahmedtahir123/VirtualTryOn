@@ -17,7 +17,7 @@ const Hero = () => {
             <button className="bg-amber-600 hover:bg-amber-700 text-white px-8 py-4 rounded-lg font-semibold text-lg transition-all transform hover:scale-105 shadow-lg">
               Shop Women
             </button>
-            <button className="bg-transparent border-2 border-white hover:bg-white hover:text-slate-900 text-white px-8 py-4 rounded-lg font-semibold text-lg transition-all transform hover:scale-105">
+            <button onClick={() => onCategoryChange('men')} className="bg-transparent border-2 border-white hover:bg-white hover:text-slate-900 text-white px-8 py-4 rounded-lg font-semibold text-lg transition-all transform hover:scale-105">
               Shop Men
             </button>
           </div>
